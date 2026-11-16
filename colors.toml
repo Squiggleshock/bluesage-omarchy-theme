@@ -1,0 +1,36 @@
+# BlueSage: cool-blue text with sage, teal, and pastel accents.
+# Keep selection backgrounds separate from neutral meter tracks.
+# After palette edits, regenerate native assets: python3 render-theme.py
+mode = "dark"
+
+accent = "#92a4c2"
+selection = "#23323f"
+selection_foreground = "#d0dfec"
+meter_background = "#737678"
+muted = "#7b8177"
+
+background = "#000000"
+dark_background = "#000000"
+darker_background = "#000000"
+lighter_background = "#1a1a1a"
+
+foreground = "#aec4d9"
+dark_foreground = "#8394a3"
+light_foreground = "#b8cbdd"
+bright_foreground = "#bfd0df"
+
+red = "#9ba585"
+yellow = "#b5c19f"
+orange = "#a8b195"
+green = "#acb895"
+cyan = "#94c0ba"
+blue = "#92a4c2"
+magenta = "#97abc8"
+brown = "#747b67"
+
+bright_red = "#bac79d"
+bright_yellow = "#bdd28d"
+bright_green = "#b3c984"
+bright_cyan = "#7dd4c9"
+bright_blue = "#afc3e8"
+bright_magenta = "#b1c5ea"
